@@ -4,10 +4,6 @@ Arrays and strings are core data structures in programming, especially in object
 
 Strings, meanwhile, represent sequences of characters and are crucial for managing text data. Java strings are immutable, meaning they cannot be altered after creation, which helps secure data but also presents unique challenges for manipulation. Common operations with strings include concatenation, substring searches, reversing characters, and word counting.
 
- ## Technologies
- - IntelliJ IDEA (IDE)
- - Java
-
 ## Exercises
 
 ### Exercise 1
