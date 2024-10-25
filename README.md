@@ -1,5 +1,3 @@
-# TP1 : Arrays and strings (JAVA)
-
 ### Introduction
 
 Arrays and strings are core data structures in programming, especially in object-oriented languages like Java. Arrays offer a way to store multiple elements of the same type efficiently, which makes them ideal for tasks like sorting, searching, and calculating statistics. In Java, arrays are objects that can hold either primitive data types or object references, adding flexibility to their applications.
