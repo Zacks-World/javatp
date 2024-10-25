@@ -26,9 +26,8 @@ Strings represent sequences of characters and are essential for managing text-ba
 Mastering these structures is essential for solving various programming challenges. This lab covers exercises demonstrating the power and flexibility of arrays and strings in Java.
 
 ## Technologies Used
-- Java
 - IntelliJ IDEA (IDE)
-- JDK 17 or higher
+- Java
 
 ## Installation
 1. Clone the repository:
